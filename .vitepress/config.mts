@@ -18,8 +18,8 @@ export default defineConfig({
       ],
       '/': [
         { text: '前言', link: '/summary' },
-        { text: '赞助', link: '/sponsor' },
-        { text: '参与贡献', link: '/contribution' },
+        // { text: '赞助', link: '/sponsor' },
+        // { text: '参与贡献', link: '/contribution' },
         // { text: 'Runtime API Examples', link: '/api-examples' }
       ],
     },

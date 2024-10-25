@@ -12,7 +12,7 @@ hero:
       link: /summary
     - theme: alt
       text: 附录
-      link: /attach
+      # link: /attach
 
 # features:
 #   - title: Feature A
